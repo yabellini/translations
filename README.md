@@ -8,8 +8,15 @@ Esta pregunta aparece mucho, especialmente cuando se trata de conocimientos téc
 Antes que nada aprender otro idioma es una actividad costosa, en tiempo - no solo para poder ir a clase, estudiar y aprender, imaginen tener que esperar a que una persona aprenda otro idoma para que pueda acceder a un nuevo conocimiento - y también en dinero: los cursos de idomas son un artículo de lujo y no están al alcance de todas las personas.Por otro lado las opciones aprender/traducir no son excluyentes. Podemos hacer las dos cosas. Tener los materiales en el idioma nativo de las personas baja una barrera muy importante de acceso al conocimiento.
 Valor de las contribuciones
 Pago x el trabajo
+
 Todas las experiencias son de trabajo voluntario y colaborativo:
-- Traducción de Teaching Tech Together.- Traducción de R for Data Science- Traducción de lecciones de Carpentries- Traducción de RStudio Cheat Sheets.
+
+- Traducción de Teaching Tech Together.
+- Traducción de R for Data Science
+- Traducción de lecciones de Carpentries
+- Traducción de RStudio Cheat Sheets.
+- Tradución de guías y reglas de R-Ladies.
+
 Hay otras iniciativas muy interesantes para leer como The Turing Way y The Programming Historian.
 
 ## Traducción de Teaching Tech Together
